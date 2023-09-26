@@ -10,6 +10,9 @@ export default {
         'ground': '#d5e1ef',
         'paragraph': 'hsl(220, 15%, 55%)',
         'heading': 'hsl(218, 44%, 22%)'
+      },
+      fontFamily: {
+        'outfit': ['Outfit', 'sans-serif'],
       }
     },
   },
